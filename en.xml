@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+        <messages key="db.user">
+                <str key="message1">Firts message</str>
+                <str key="message2">Second message</str>
+        </messages>
+</root>
