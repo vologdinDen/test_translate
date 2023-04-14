@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-        <messages key="db.user">
-                <str key="message1">Первая мессага</str>
-                <str key="message2">Вторая мессага</str>
-                <str key="message3">Третья мессага</str>
-                <str key="message4">Чётвертая мессага</str>
-        </messages>
+        <str key="message1">Первая мессага</str>
+        <str key="message2">Вторая мессага</str>
+        <str key="message3">Третья мессага</str>
+        <str key="message4">Чётвертая мессага</str>
 </root>
