@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
-            <str key="message1">Firts message</str>
-            <str key="message2">Second message</str>
+  <str key="message1">Firts message</str>
+  <str key="message2">Second message</str>
+  <str key="message3">Third message</str>
+  <str key="message4">Fourth message</str>
 </root>
